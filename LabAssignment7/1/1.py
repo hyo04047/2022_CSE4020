@@ -1,5 +1,3 @@
-###################################################
-# [Practice] Drawing Indexed Triangles using Vertex & Index Array
 import glfw
 from OpenGL.GL import *
 import numpy as np
